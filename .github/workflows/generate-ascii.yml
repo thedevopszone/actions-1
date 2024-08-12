@@ -11,7 +11,7 @@ jobs:
 
       - name: Execute Shell Scripts
         run: |
-          chmod +x ascii-script.de
+          chmod +x ascii-script.sh
           ./ascii-script.sh
 
 #      - name: Install Cowsay Program
